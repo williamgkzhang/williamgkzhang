@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @williamgkzhang
 - 🍕 I like pizza
-What else is there to say?
+- What else is there to say?
 
 <!---
 williamgkzhang/williamgkzhang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
