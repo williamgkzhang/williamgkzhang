@@ -1,5 +1,5 @@
-# 👋 Hi, I’m @williamgkzhang
-## 🍕 I like pizza
+- 👋 Hi, I’m @williamgkzhang
+- 🍕 I like pizza
 What else is there to say?
 
 <!---
